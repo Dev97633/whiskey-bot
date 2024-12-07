@@ -5,7 +5,7 @@ import chalk from 'chalk';
 import ora from 'ora';
 
 const greetings = ['hi', 'hii', 'hello', 'hey', 'hola', 'howdy'];
-const myNumber = '918750725493@s.whatsapp.net'; // Replace with your number (JID format)
+const myNumber = '911234567890@s.whatsapp.net'; // Replace with your number (JID format)
 
 // Display "Whiskey Bot" in ASCII art
 function displayGraphics() {
